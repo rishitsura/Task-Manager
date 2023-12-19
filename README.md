@@ -23,7 +23,7 @@ Task Manager Screenshot
 ![image](https://github.com/rishitsura/Task-Manager/assets/115737321/230c866c-8939-4725-a114-824a40aaa0dc)
 ![image](https://github.com/rishitsura/Task-Manager/assets/115737321/da5ed641-c7cf-49dd-bb84-d5201719936b)
 
-##Acknowledgements
+## Acknowledgements
 Development platform - Visual Studio Code
 Background image - wallpapersafari.com
 
