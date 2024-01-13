@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (usernameInput.value && passwordInput.value) {
       localStorage.setItem("username", usernameInput.value);
 
-      window.location.href = "index.html";
+      window.location.href = "main.html";
     } else {
       alert("Invalid credentials. Please try again.");
     }
