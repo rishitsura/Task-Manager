@@ -9,7 +9,13 @@ document.addEventListener("DOMContentLoaded", () => {
   const addTaskButton = document.getElementById("add-task");
   const priorityFilter = document.getElementById("priority-filter");
   const completedFilter = document.getElementById("completed-filter");
-  const darkModeToggle = document.getElementById("dark-mode-toggle");
+
+  const username = localStorage.getItem("username");
+  const usernameDisplay = document.getElementById("username-display");
+
+  if (username) {
+    usernameDisplay.textContent = username;
+  }
 
   const isDarkMode = localStorage.getItem("darkMode") === "enabled";
   if (isDarkMode) {
