@@ -18,10 +18,17 @@ Organize tasks effortlessly with this Task Manager. Set priorities, add notes an
 3. Start managing your tasks efficiently!
 
 ## Screenshots
-Task Manager Screenshot
-![image](https://github.com/rishitsura/Task-Manager/assets/115737321/6de6e6f6-05d2-4f9e-9f24-5394c9acf735)
-![image](https://github.com/rishitsura/Task-Manager/assets/115737321/230c866c-8939-4725-a114-824a40aaa0dc)
-![image](https://github.com/rishitsura/Task-Manager/assets/115737321/da5ed641-c7cf-49dd-bb84-d5201719936b)
+Login page
+![image](https://github.com/rishitsura/Task-Manager/assets/115737321/38f9514a-b125-4786-91c2-976d35bf1dc3)
+Adding tasks
+![image](https://github.com/rishitsura/Task-Manager/assets/115737321/9da4ceee-d7f8-438a-88f7-80902705223f)
+Displaying of tasks
+![image](https://github.com/rishitsura/Task-Manager/assets/115737321/79c1a104-1697-44e0-b179-367015b18b81)
+Marking tasks as complete
+![image](https://github.com/rishitsura/Task-Manager/assets/115737321/747d923b-60c8-4058-9c6e-0c4f61a15909)
+
+## Live Website
+Try it out here ---> [Click me!](https://rishitsura.github.io/Task-Manager/)
 
 ## Acknowledgements
 - **Development platform:** Visual Studio Code
