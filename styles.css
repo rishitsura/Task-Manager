@@ -23,6 +23,29 @@ nav {
   position: relative;
 }
 
+#text {
+  font-size: 1.8rem;
+  background: linear-gradient(to right, rgba(0, 168, 253), #fff 35%, #e00a95);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  animation: gradient 3s linear infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 75%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 70%;
+  }
+}
+
 #username-display {
   color: #fff;
   font-size: 20px;
@@ -253,10 +276,9 @@ input[type="date"] {
   background-color: #0056b3;
 }
 
-#add-task,
-#dark-mode-toggle {
+#add-task {
   width: 100%;
-  margin-top: 20px;
+  margin: 20px auto;
 }
 .completed {
   background-color: #d4edda !important;
@@ -322,3 +344,4 @@ button:hover {
 .edit-task:hover {
   background-color: #218838;
 }
+
