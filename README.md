@@ -30,6 +30,11 @@ Marking tasks as complete
 ## Live Website
 Try it out here ---> [Click me!](https://rishitsura.github.io/Task-Manager/) 🌐
 
+## Contributors
+- Rishit Sura
+- Shruthika Sunku
+- Suhas Uppala
+
 ## Acknowledgements
 - **Development platform:** Visual Studio Code
 - **Background image:** wallpapersafari.com
